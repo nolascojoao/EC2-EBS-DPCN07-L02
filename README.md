@@ -1,7 +1,11 @@
 # Laboratório 2: Amazon EC2 e Armazenamento EBS
 
 **Curso:** Preparatório para o exame AWS Solutions Architect Associate (C03)
+
+
 **Instituição:** Escola da Nuvem
+
+
 **Turma:** DPCN07 - JAN/2025
 
 ---
@@ -101,6 +105,8 @@ Você precisa provisionar um servidor web simples na AWS. Para isso, você criar
 ---
 
 ### Dicas:  
+
+
 • Se você precisar desmontar o volume, use o comando `sudo umount /mnt/dados`.  
 • Para que o volume seja montado automaticamente a cada reinicialização da instância, você precisará editar o arquivo `/etc/fstab`. Consulte a documentação da AWS para obter instruções específicas sobre como fazer isso.  
 • Lembre-se de substituir `/dev/xvdf` pelo nome real do seu dispositivo EBS.  
@@ -110,9 +116,9 @@ Acesse o console do EC2 e navegue até "Volumes":
 • Clique em "Ações" e selecione "Criar snapshot".  
 • Dê um nome descritivo ao snapshot (ex: "Não apague , risco de demissão").  
 
-o Obs: Adicione uma tag para melhor organização e para ajudar o departamente de FinOps.  
+**Obs:** Adicione uma tag para melhor organização e para ajudar o departamente de FinOps.  
 
-• Criar snapshot  
+Criar snapshot  
 • Navegue até "Snapshots" e selecione o snapshot que você criou.  
 • Clique em "Ações" e selecione "Criar política de snapshot".  
 • Configure a política para criar snapshots automaticamente com a frequência desejada (ex: diariamente).  
