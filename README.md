@@ -140,3 +140,9 @@ Criar snapshot
 ![6-create-snap3](https://github.com/user-attachments/assets/07c0dd4c-d5ab-4418-be40-a9ff20e94f46)
 
 ![7-snap](https://github.com/user-attachments/assets/8db37525-15ad-46a3-a56d-c237f8d04ab8)
+
+
+Aqui vai uma sugestão:
+
+
+- [Laboratório prático: Snapshots de EBS com AWS CLI e Python](https://github.com/nolascojoao/aws-ebs-snapshot-lab)
