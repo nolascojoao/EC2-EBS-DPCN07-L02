@@ -3,7 +3,7 @@
 **Curso:** Preparatório para o exame AWS Solutions Architect Associate (C03)
 
 
-**Instituição:** Escola da Nuvem
+**Instituição:** [Escola da Nuvem](https://escoladanuvem.org/)
 
 
 **Turma:** DPCN07 - JAN/2025
