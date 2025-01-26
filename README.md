@@ -141,6 +141,16 @@ Criar snapshot
 
 ![7-snap](https://github.com/user-attachments/assets/8db37525-15ad-46a3-a56d-c237f8d04ab8)
 
+![create-snap-lifecycle-policy-1](https://github.com/user-attachments/assets/e02b90fc-85d2-4ff0-be9a-24b0debcc605)
+
+![create-snap-lifecycle-policy-2](https://github.com/user-attachments/assets/d008fb26-ec52-4b2f-b03e-1f542d83d25c)
+
+![create-snap-lifecycle-policy-2-1](https://github.com/user-attachments/assets/3a86ea39-a8ed-428e-881c-c5051ffdf2b2)
+
+![create-snap-lifecycle-policy-3](https://github.com/user-attachments/assets/45376053-a8b9-4cf0-a0bb-6977e34470c5)
+
+![create-snap-lifecycle-policy-4](https://github.com/user-attachments/assets/01b0785e-9c32-46c7-ac15-0939b1883d78)
+
 
 Aqui vai uma sugestão:
 
